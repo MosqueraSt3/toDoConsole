@@ -1,0 +1,26 @@
+{
+  "name": "toDoConsole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MosqueraSt3/toDoConsole.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MosqueraSt3/toDoConsole/issues"
+  },
+  "homepage": "https://github.com/MosqueraSt3/toDoConsole#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^7.3.3",
+    "nodemon": "^2.0.7",
+    "uuid": "^8.3.2"
+  }
+}
